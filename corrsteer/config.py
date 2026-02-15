@@ -7,7 +7,6 @@ from corrsteer.dataset import (
   MMLUDataLoader,
   GSM8KDataLoader,
   BBQDataLoader,
-  MathDataLoader,
   SimpleQADataLoader,
   HarmBenchDataLoader,
   XSTestDataLoader,
